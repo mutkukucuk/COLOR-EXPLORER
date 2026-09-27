@@ -1,7 +1,7 @@
 {
   "name": "color-explorer",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Explore colors: conversions, palettes, WCAG contrast, and shareable links.",
   "homepage": "https://mutkukucuk.github.io/COLOR-EXPLORER/",
   "repository": {
